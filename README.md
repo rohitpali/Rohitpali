@@ -86,5 +86,5 @@ Feel free to connect with me on my social platforms. I'm always open to discussi
 </div>
 
 <div align="center">
-<img src="https://media.tenor.com/tZ_2-A3VlNgAAAAC/batman-badman-analyse.gif" width="350">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
 </div>
