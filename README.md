@@ -84,3 +84,7 @@ Feel free to connect with me on my social platforms. I'm always open to discussi
 <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe">
 </a>
 </div>
+
+<div align="center">
+<img src="https://media.tenor.com/tZ_2-A3VlNgAAAAC/batman-badman-analyse.gif" width="350">
+</div>
