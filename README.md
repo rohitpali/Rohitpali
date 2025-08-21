@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/vj2x38PA-5kAAAAC/gofiber-really.gif" width="350">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYKT/giphy.gif" width="350">
 <h1> Hi, I'm Rohit Pali 👋 </h1>
 </div>
 
