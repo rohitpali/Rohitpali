@@ -15,7 +15,8 @@
 </a>
 </div>
 
-👨‍💻 
+👨‍💻 About Me 
+
 I am a Aspiring Data Scientist and a recent BIT'24 graduate with a strong passion for leveraging data to build innovative solutions. My expertise lies in the intersection of software development and data science, with a focus on Deep Learning, Machine Learning, and Generative AI.
 
 💻 Former Software Developer at Binomial Analytics.
@@ -27,6 +28,7 @@ I am a Aspiring Data Scientist and a recent BIT'24 graduate with a strong passio
 📫 You can reach me at rohitpali@gmail.com.
 
 🚀 What I do
+
 I specialize in turning complex data into actionable insights and building intelligent applications. Here are a few things I'm passionate about:
 
 Data Science & Machine Learning: Developing predictive models and implementing ML algorithms to solve real-world problems.
@@ -38,6 +40,7 @@ Data Analytics & Visualization: Using tools like Power BI and Python to analyze 
 Content Creation: Sharing my journey and knowledge with the tech community through tutorials and project walkthroughs.
 
 🛠️ Tech Stack & Tools
+
 Languages:
 <p>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -65,6 +68,7 @@ Tools & Platforms:
 </p>
 
 📊 GitHub Stats
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rohitpali&theme=github_dark&show_icons=true&count_private=true" alt="Rohit's GitHub stats" />
 <br/>
@@ -72,6 +76,7 @@ Tools & Platforms:
 </div>
 
 🤝 Reach Out to Me
+
 Feel free to connect with me on my social platforms. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
 <div align="center">
