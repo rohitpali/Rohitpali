@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+<img src="https://media.tenor.com/vj2x38PA-5kAAAAC/gofiber-really.gif" width="350">
 <h1> Hi, I'm Rohit Pali 👋 </h1>
 </div>
 
@@ -85,4 +85,6 @@ Feel free to connect with me on my social platforms. I'm always open to discussi
 </a>
 </div>
 
-<div class="tenor-gif-embed" data-postid="8591210658048230749" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gofiber-really-domixi-gif-8591210658048230749">Gofiber Really GIF</a>from <a href="https://tenor.com/search/gofiber-gifs">Gofiber GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+<img src="https://media.tenor.com/tZ_2-A3VlNgAAAAC/batman-badman-analyse.gif" width="350">
+</div>
