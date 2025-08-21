@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYKT/giphy.gif" width="350">
+
 <h1> Hi, I'm Rohit Pali 👋 </h1>
 </div>
 
@@ -83,8 +83,4 @@ Feel free to connect with me on my social platforms. I'm always open to discussi
 <a href="https://www.youtube.com/@rohitpalii08">
 <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe">
 </a>
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
 </div>
