@@ -15,7 +15,7 @@
 </a>
 </div>
 
-👨‍💻 About Me 
+</h3> 👨‍💻 About Me </h3>
 
 I am a Aspiring Data Scientist and a recent BIT'24 graduate with a strong passion for leveraging data to build innovative solutions. My expertise lies in the intersection of software development and data science, with a focus on Deep Learning, Machine Learning, and Generative AI.
 
@@ -27,7 +27,7 @@ I am a Aspiring Data Scientist and a recent BIT'24 graduate with a strong passio
 
 📫 You can reach me at rohitpali@gmail.com.
 
-🚀 What I do
+<h3> 🚀 What I do </h3>
 
 I specialize in turning complex data into actionable insights and building intelligent applications. Here are a few things I'm passionate about:
 
@@ -39,9 +39,9 @@ Data Analytics & Visualization: Using tools like Power BI and Python to analyze 
 
 Content Creation: Sharing my journey and knowledge with the tech community through tutorials and project walkthroughs.
 
-🛠️ Tech Stack & Tools
+<h3> 🛠️ Tech Stack & Tools </h3>
 
-Languages:
+</h4> Languages:</h4>
 <p>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -49,7 +49,7 @@ Languages:
 <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-Data Science & Machine Learning:
+</h4> Data Science & Machine Learning: </h4>
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -58,7 +58,7 @@ Data Science & Machine Learning:
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
-Tools & Platforms:
+</h4> Tools & Platforms: </h4>
 <p>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
@@ -67,7 +67,7 @@ Tools & Platforms:
 
 </p>
 
-📊 GitHub Stats
+</h3> 📊 GitHub Stats </h3>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rohitpali&theme=github_dark&show_icons=true&count_private=true" alt="Rohit's GitHub stats" />
@@ -75,7 +75,7 @@ Tools & Platforms:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpali&theme=github_dark&layout=compact&hide_border=false&include_all_commits=true" alt="Top Languages" />
 </div>
 
-🤝 Reach Out to Me
+</h3> 🤝 Reach Out to Me </h3>
 
 Feel free to connect with me on my social platforms. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
