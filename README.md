@@ -15,15 +15,12 @@
 </a>
 </div>
 
-👨‍💻 About Me
-I am a Software Developer and a recent BIT'24 graduate with a strong passion for leveraging data to build innovative solutions. My expertise lies in the intersection of software development and data science, with a focus on Deep Learning, Machine Learning, and Generative AI.
+👨‍💻 
+I am a Aspiring Data Scientist and a recent BIT'24 graduate with a strong passion for leveraging data to build innovative solutions. My expertise lies in the intersection of software development and data science, with a focus on Deep Learning, Machine Learning, and Generative AI.
 
 💻 Former Software Developer at Binomial Analytics.
-
 🧠 Exploring the depths of Data Science and Machine Learning.
-
 🎥 Creating content on Data Analytics & Technology on my YouTube channel.
-
 📫 You can reach me at rohitpali@gmail.com.
 
 🚀 What I do
@@ -61,7 +58,7 @@ Tools & Platforms:
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+
 </p>
 
 📊 GitHub Stats
