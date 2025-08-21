@@ -1,34 +1,84 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"></p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+<h1> Hi, I'm Rohit Pali 👋 </h1>
+</div>
 
-<h1 align="center">👋 Hi, I'm Rohit Pali</h1>
+<div align="center">
+<a href="https://www.linkedin.com/in/rohitpalii/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.youtube.com/@rohitpalii08">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://github.com/rohitpali">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+</div>
 
-<h2>💫 About Me:</h2>
+👨‍💻 About Me
+I am a Software Developer and a recent BIT'24 graduate with a strong passion for leveraging data to build innovative solutions. My expertise lies in the intersection of software development and data science, with a focus on Deep Learning, Machine Learning, and Generative AI.
+
+💻 Former Software Developer at Binomial Analytics.
+
+🧠 Exploring the depths of Data Science and Machine Learning.
+
+🎥 Creating content on Data Analytics & Technology on my YouTube channel.
+
+📫 You can reach me at rohitpali@gmail.com.
+
+🚀 What I do
+I specialize in turning complex data into actionable insights and building intelligent applications. Here are a few things I'm passionate about:
+
+Data Science & Machine Learning: Developing predictive models and implementing ML algorithms to solve real-world problems.
+
+Software Development: Building robust, scalable, and data-driven software solutions.
+
+Data Analytics & Visualization: Using tools like Power BI and Python to analyze data and create compelling visualizations.
+
+Content Creation: Sharing my journey and knowledge with the tech community through tutorials and project walkthroughs.
+
+🛠️ Tech Stack & Tools
+Languages:
 <p>
-💻 Former Software Developer at Binomial Analytics<br>
-📊 Aspiring Data Analyst with expertise in Python, SQL, Power BI, and Tableau<br>
-🎓 BIT'24 graduate passionate about transforming data into actionable insights<br>
-🎥 YouTube creator sharing knowledge on data analytics and technology<br>
-📫 Reach me at <a href="mailto:rohitpali@gmail.com">rohitpali@gmail.com</a>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-pali-15179a190/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitpali)
+Data Science & Machine Learning:
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
 
-## 📺 YouTube Journey:
+Tools & Platforms:
+<p>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
 
-As a content creator, I share my knowledge and experiences in data analytics, software development, and technology trends. My channel features tutorials, project walkthroughs, and discussions on industry best practices. I aim to make complex concepts accessible and engaging for my audience.
+📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rohitpali&theme=github_dark&show_icons=true&count_private=true" alt="Rohit's GitHub stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpali&theme=github_dark&layout=compact&hide_border=false&include_all_commits=true" alt="Top Languages" />
+</div>
 
-## 💻 Tech Stack:
+🤝 Reach Out to Me
+Feel free to connect with me on my social platforms. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-
-**Libraries & Frameworks:**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Tools & Platforms:**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## 📊 GitHub Stats:
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitpali&theme=github_dark&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpali&theme=github_dark&layout=compact&hide_border=false&include_all_commits=true)
+<div align="center">
+<a href="https://www.linkedin.com/in/rohitpalii/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect">
+</a>
+<a href="https://www.youtube.com/@rohitpalii08">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe">
+</a>
+</div>
