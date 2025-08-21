@@ -85,6 +85,4 @@ Feel free to connect with me on my social platforms. I'm always open to discussi
 </a>
 </div>
 
-<div align="center">
-<img src="https://media.tenor.com/tZ_2-A3VlNgAAAAC/batman-badman-analyse.gif" width="350">
-</div>
+<div class="tenor-gif-embed" data-postid="8591210658048230749" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gofiber-really-domixi-gif-8591210658048230749">Gofiber Really GIF</a>from <a href="https://tenor.com/search/gofiber-gifs">Gofiber GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
