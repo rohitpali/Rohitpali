@@ -31,10 +31,10 @@ I am a Aspiring Data Scientist and a recent BIT'24 graduate with a strong passio
 
 I specialize in turning complex data into actionable insights and building intelligent applications. Here are a few things I'm passionate about:
 
-<h4>1.Data Science & Machine Learning:</h4> Developing predictive models and implementing ML algorithms to solve real-world problems.
-<h4>2.Data Analytics & Visualization:</h4> Using tools like Power BI and Python to analyze data and create compelling visualizations.
-<h4>3.Software Development:</h4> Building robust, scalable, and data-driven software solutions.
-<h4>4.Content Creation:</h4> Sharing my journey and knowledge with the everyone.
+<h4>1. Data Science & Machine Learning:</h4> Developing predictive models and implementing ML algorithms to solve real-world problems.
+<h4>2. Data Analytics & Visualization:</h4> Using tools like Power BI and Python to analyze data and create compelling visualizations.
+<h4>3. Software Development:</h4> Building robust, scalable, and data-driven software solutions.
+<h4>4. Content Creation:</h4> Sharing my journey and knowledge with the everyone.
 
 <h3> 🛠️ Tech Stack & Tools </h3>
 
