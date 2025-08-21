@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/3209724d61934c288c12145b59f3c754.gif" width="350">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
 <h1> Hi, I'm Rohit Pali 👋 </h1>
 </div>
 
