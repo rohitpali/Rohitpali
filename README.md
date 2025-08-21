@@ -19,8 +19,11 @@
 I am a Aspiring Data Scientist and a recent BIT'24 graduate with a strong passion for leveraging data to build innovative solutions. My expertise lies in the intersection of software development and data science, with a focus on Deep Learning, Machine Learning, and Generative AI.
 
 💻 Former Software Developer at Binomial Analytics.
+
 🧠 Exploring the depths of Data Science and Machine Learning.
+
 🎥 Creating content on Data Analytics & Technology on my YouTube channel.
+
 📫 You can reach me at rohitpali@gmail.com.
 
 🚀 What I do
