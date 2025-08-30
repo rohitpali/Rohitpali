@@ -25,7 +25,7 @@ I am a Aspiring Data Scientist and a recent BIT'24 graduate with a strong passio
 
 🎥 Creating content on Data Analytics & Technology on my YouTube channel.
 
-📫 You can reach me at rohitpali@gmail.com.
+📫 You can reach me at rohit09pali@gmail.com.
 
 <h3> 🚀 What I do </h3>
 
